@@ -1,0 +1,2 @@
+# KSUai
+Artificial intellingence course
